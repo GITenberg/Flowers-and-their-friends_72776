@@ -1,5 +1,8 @@
 _repo: Flowers-and-their-friends_72776
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72776-h/images/cover.jpg
 creator:
   author:
     agent_name: Morley, Margaret Warner
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8252
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Warner_Morley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72776#Flowers-and-their-friends
 gutenberg_issued: '2024-01-21'
 gutenberg_type: Text
 identifiers:
